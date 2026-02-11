@@ -1,0 +1,31 @@
+{
+  "ModelType": 50,
+  "ShippingNumber": "",
+  "AddRemainingOrdersOnInventory": false,
+  "AutoGenerateUniqueNumber": true,
+  "CompanyCode": 1,
+  "LogisticsCompanyBOL": "",
+  "OfficeCode": "M",
+  "OperationDate": "\/Date(1461704400000)\/",
+  "Series": "A",
+  "SeriesNumber": 0,
+  "ShippingDate": "\/Date(1461704400000)\/",
+  "VendorCode": "V1713",
+  "WarehouseCode": "SER""Description": "",
+  "ExportFileNumber": "",
+  "ImportFileNumber": "",
+  "InternalDescription": "",
+  "IsCompleted": true,
+  "IsOrderAsnBase": true,
+  "IsOrderBase": true,
+  "IsReturn": false,
+  "Lines": [
+    {
+      "LineDescription": "",
+      "OrderAsnLineID": "4f06887d-eca4-4e60-9bad-a5f300b14fb6",
+      "OrderLineID": "a14e9fd9-deae-4ed2-828d-a5f300af817f",
+      "Qty1": 1,
+      "ReturnReasonCode": ""
+    }
+  ]
+}

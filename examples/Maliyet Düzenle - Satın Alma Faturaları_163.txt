@@ -1,0 +1,18 @@
+{
+  "ModelType": 163,
+  "AdjustCostMethodCode": 4,
+  "ProcessCode": "BP",
+  "Amount": 100,
+  "AdjustCostInvoices": [
+    {
+      "InvoiceNumber": "1-BP-7-1398",
+      "CostLines": [
+        {
+          "LineID": "c2e4b35e-fe5b-4f1a-a54e-8aeafcb3a381",
+          "IncreaseAmount": 100
+        }
+      ]
+    }
+  ],
+  "IsCompleted": true
+}

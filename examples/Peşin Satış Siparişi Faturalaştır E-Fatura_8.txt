@@ -1,0 +1,31 @@
+{
+  "ModelType": "8",
+  "ProcessCode": "R",
+  "InvoiceDate": "02.02.2022",
+  "CustomerCode": "1-4-5517",
+  "PosTerminalID": 1,
+  "Description": "",
+  "IsCompleted": true,
+  "IsLocked": false,
+  "IsOrderBase": true,
+  "IsPickingBase": false,
+  "IsReturn": false,
+  "OfficeCode": "300",
+  "StoreCode": "300",
+  "WarehouseCode": "300",
+  "ShipmentMethodCode": "2",
+  "DeliveryCompanyCode": "01",
+  "BillingPostalAddressID": "5C0AB8DB-6F64-4E0D-A1A8-AE17012A8F83",
+  "ShippingPostalAddressID": "8D200EA7-97F5-4A5B-978D-AE17012A8F84",
+  "Lines": [
+
+    {
+      "OrderLineID": "909323BF-A6A1-4A69-8B57-AE17012A91F5",
+      "Qty1": 1
+    }
+  ],
+  "PostalAddress": {
+     "CompanyName": "özdemirci turizm inş otomotiv",
+    "TaxNumber": "6810294221"
+  }
+}

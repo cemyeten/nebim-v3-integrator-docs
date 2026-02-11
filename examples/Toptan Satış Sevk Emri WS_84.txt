@@ -1,0 +1,18 @@
+
+{
+  "ModelType": 84,
+  "CustomerCode": "PM1",
+  "Description": "Sinan",
+  "CompanyCode": "1",
+  "IsOrderBase": true,
+  "OfficeCode": "M01",
+  "WareHouseCode": "1-0-6",
+  "DefaultPreviousProcess": 3,
+  "Lines": [
+    {
+      "ReserveLineID": "81861B3C-B49F-4970-9117-A87800C5193D",
+      "Qty1": 1
+    }
+  ],
+  "IsCompleted": true
+}

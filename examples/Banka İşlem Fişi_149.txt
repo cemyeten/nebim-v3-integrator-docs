@@ -1,0 +1,55 @@
+{
+  "ModelType": 149,
+  "OfficeCode": "M",
+  "DocumentDate": "\/Date(1504299600000)\/",
+  "LocalCurrencyCode": "TRY",
+  "DocCurrencyCode": "TRY",
+  "DocumentNumber": null,
+  "IsCompleted": false,
+  "Lines": [
+    {
+      "AllowDifferentOfficeBankForStoreUser": true,
+      "BankAccountCode": "B046001",
+      "CostCenterCode": "M87",
+      "GLTypeCode": null,
+      "DocCurrencyCode": "TRY",
+      "BankOpTypeCode": 6,
+      "Debit": 3588.76,
+      "Credit": 0,
+      "Amount":  3588.76
+    },
+    {
+      "AllowDifferentOfficeBankForStoreUser": true,
+      "GLAccCode": "1080460000",
+      "CostCenterCode": "M87",
+      "GLTypeCode": null,
+      "DocCurrencyCode": "TRY",
+      "BankOpTypeCode": 6,
+      "Debit": 0,
+      "Credit": 3607.16,
+      "Amount": 3607.16
+    },
+    {
+      "AllowDifferentOfficeBankForStoreUser": true,
+      "GLAccCode": "7800100002",
+      "CostCenterCode": "M87",
+      "GLTypeCode": null,
+      "DocCurrencyCode": "TRY",
+      "BankOpTypeCode": 6,
+      "Debit": 0.40,
+      "Credit": 0,
+      "Amount": 0.40
+    },
+    {
+      "AllowDifferentOfficeBankForStoreUser": true,
+      "GLAccCode": "7800300005",
+      "CostCenterCode": "M87",
+      "GLTypeCode": null,
+      "DocCurrencyCode": "TRY",
+      "BankOpTypeCode": 6,
+      "Debit": 18.00,
+      "Credit": 0,
+      "Amount":  18.00
+    }
+  ]
+}

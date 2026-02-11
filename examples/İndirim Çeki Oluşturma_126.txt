@@ -1,0 +1,22 @@
+{
+  "ModelType": 126,
+  "Amount": 620.00,
+  "CancelDate": "1900-01-01",
+  "CancelDescription": "",
+  "CurrencyCode": "TRY",
+  "CustomerCode": "1-4-1",
+  "CustomerTypeCode": 4,
+  "DiscountRate": 0,
+  "DiscountVoucherTypeCode": "TEST1",
+  "FirstValidDate": "2018-07-02",
+  "InvoiceHeaderID": "00000000-0000-0000-0000-000000000000",
+  "IsBlocked": false,
+  "IsCanceled": false,
+  "IsReturnVoucher": false,
+  "IsUsed": false,
+  "LastValidDate": "2018-10-01",
+  "MinAmount": 0,
+  "OrderHeaderID": "00000000-0000-0000-0000-000000000000",
+  "SerialNumber": "2",
+  "UsedAmount": 100.0000
+}

@@ -1,0 +1,37 @@
+{
+  "CompanyCode": "1",
+  "ModelType": 8,
+  "CustomerCode": "PM1",
+  "PosTerminalID": 1,
+  "Description": "SiparitNo: SKC1723",
+  "OfficeCode": "M01",
+  "StoreCode": "M01",
+  "WarehouseCode": "1-0-7",
+  "IsCompleted": true,
+  "DeliveryCompanyCode": "YKARGO",
+  "ShipmentMethodCode": "2",
+  "Lines": [
+    {
+      "UsedBarcode": "8650000000030",
+      "PriceVI": 359.0,
+      "Qty1": 1
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": 1,
+      "Code": "1-7-3",
+      "CreditCardTypeCode": "",
+      "DocCurrencyCode": "EUR",
+      "LocalCurrencyCode": "TRY",
+      "DocumentDate": "20180206",
+      "InstallmentCount": 0,
+      "CurrencyCode": "EUR",
+      "Amount": 150
+    }
+  ],
+  "ApplyCampaign": false,
+  "InvoiceDate": "20180719",
+  "EMailAddress": "sinanc@nebim.com.tr",
+  "SendInvoiceByEMail": true
+}

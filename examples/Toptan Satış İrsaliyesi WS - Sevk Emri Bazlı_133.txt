@@ -1,0 +1,26 @@
+{
+  "ModelType": 60,
+  "ShippingNumber": "",
+  "CustomerCode": "MF0001",
+  "DeliveryCompanyCode": "",
+  "Description": "",
+  "InternalDescription": "",
+  "IsCompleted": true,
+  "IsLocked": false,
+  "IsOrderBase": true,
+  "IsPickingBase": false,
+  "IsReturn": false,
+  "BillingPostalAddressID": "b01b20a5-13d6-4a13-afe9-5984a34146ee",
+  "ShippingPostalAddressID": "b01b20a5-13d6-4a13-afe9-5984a34146ee",
+  "Lines": [
+    {
+      "DispOrderLineID": "88f0d045-5c2c-4fe0-9115-a8dc008a7aa2",
+      "Qty1": 1
+    }
+  ],
+  "OfficeCode": "M",
+  "Series": "",
+  "SeriesNumber": 0,
+  "ShippingDate": "20180510",
+  "WarehouseCode": "1-0-1"
+}

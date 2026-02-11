@@ -1,0 +1,30 @@
+﻿{
+  "ModelType": 59,
+  "CompanyCode": "1",
+  "IsCompleted": true,
+  "IsLocked": false,
+  "IsReturn": false,
+  "ShippingPostalAddressID": "c75d5281-c5e1-43de-b268-a5fa00ed6448",
+  "IsOrderBase": false,
+  "IsTransferApproved": true,
+  "OfficeCode": "M01",
+  "StoreCode": "M01",
+  "WarehouseCode": "M01",
+  "ToStoreCode": "M02",
+  "ToWarehouseCode": "M02",
+  "Series": "A",
+  "SeriesNumber": 999999,
+  "Description": "",
+  "StoreTransferType": 0,
+  "Lines": [
+    {
+      "ColorCode": "01",
+      "ItemCode": "K001",
+      "ItemDim1Code": "40",
+      "ItemDim2Code": "",
+      "ItemDim3Code": "",
+      "ItemTypeCode": 1,
+      "Qty1": 1
+    }
+  ]
+}

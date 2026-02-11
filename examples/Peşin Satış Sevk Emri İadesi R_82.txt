@@ -1,0 +1,19 @@
+
+{
+  "ModelType": 82,
+  "CustomerCode": "PM1",
+  "Description": "Sinan",
+  "CompanyCode": "1",
+  "IsOrderBase": true,
+  "OfficeCode": "M01",
+"StoreCode":"M01",
+  "WareHouseCode": "1-0-7",
+  "IsReturn":true,
+  "Lines": [
+    {
+      "OrderLineID": "5405ABBD-AB5A-4F3D-A6EF-A930008160BD",
+      "Qty1": 1
+    }
+  ],
+  "IsCompleted": true
+}

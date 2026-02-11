@@ -1,0 +1,30 @@
+{
+  "ModelType": 92,
+  "BlockCheckOutProcess": false,
+  "CompanyCode": 1,
+  "CurrAccCode": "1-3-3",
+  "CurrAccTypeCode": 3,
+  "DebitTypeCode": 1,
+  "Description": "",
+  "DocCurrencyCode": "TRY",
+  "DocumentDate": "2019-02-19",
+  "DocumentNumber": "",
+  "ExchangeRate": 1,
+  "IsCompleted": true,
+  "IsLocked": false,
+  "IsPrinted": false,
+  "IsReturn": false,
+  "Lines": [
+    {
+      "CreditAmount": 200.00,
+      "DebitAmount": 0,
+      "DebitReasonCode": "I",
+      "DisableBeforeDoSave": false,
+      "DocCurrencyCode": "TRY",
+      "DueDate": "2019-02-19",
+      "ExchangeRate": 1,
+      "LineDescription": ""
+    }
+  ],
+  "OfficeCode": "M"
+}

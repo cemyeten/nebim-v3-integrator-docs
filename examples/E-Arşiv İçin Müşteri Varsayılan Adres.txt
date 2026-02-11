@@ -1,0 +1,9 @@
+B2C tarafýnda gönderilen modelle müþteri oluþturulduktan sonra B2C ye dönen response üzerinden ilgili comminicationID alýnarak  aþaðýdaki modelde ki EArchieveEMailCommunicationID alanýna yazýlarak post edildiðinde  e-arþiv için eposta adresi kýsmýna post edilen comminicationID ye baðlý e-mail adresi yazýlacaktýr.
+
+{
+  "ModelType": 3,
+  "CurrAccCode": "1-4-10",
+  "CurrAccDefault": {
+    "EArchieveEMailCommunicationID": "c1a995d2-44d2-4cf8-9624-a5d300595127"
+  }
+}

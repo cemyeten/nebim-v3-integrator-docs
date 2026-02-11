@@ -1,0 +1,38 @@
+{
+  "ModelType": 6,
+  "CustomerCode": "1-4-13",
+  "PosTerminalID": 1,
+  "OrderDate": "20190311",
+  "OfficeCode": "M01",
+  "StoreCode": "M01",
+  "StoreWareHouseCode": "M01",
+  "IsSalesViaInternet": true,
+  "IsCompleted": true,
+  "ShipmentMethodCode": 2,
+  "DeliveryCompanyCode": "ARAS",
+  "OrdersViaInternetInfo": {
+    "SalesURL": "www.demoteks.com",
+    "PaymentTypeCode": 1,
+    "PaymentTypeDescription": "KREDÝ KARTI",
+    "PaymentAgent": "VERA",
+    "PaymentDate": "20190311",
+    "SendDate": "20190311"
+  },
+  "Lines": [
+    {
+      "UsedBarcode": "8695450000643",
+      "PriceVI": 30.00,
+      "Qty1": 1,
+      "LineDescription": ""
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": 2,
+      "CreditCardTypeCode": "AKB",
+      "InstallmentCount": 1,
+      "CurrencyCode": "TRY",
+      "Amount": 30.00
+    }
+  ]
+}

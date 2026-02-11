@@ -1,0 +1,26 @@
+{
+    "ModelType": 51,
+    "CompanyCode": 1,
+    "DisableValidatingItemInventory": false,
+    "Description": "1-BP-14163",
+    "EShipmentNumber": "AAA2018000000003",
+    "EShipmentStatusCode": 2,
+    "IsCompleted": true,
+    "IsLocked": false,
+    "IsOrderAsnBase": true,
+    "IsOrderBase": true,
+    "IsPickingBase": false,
+    "IsReturn": false,
+    "OfficeCode": "M01",
+    "UseOrderPrice": false,
+    "VendorCode": "TF0004",
+    "ShippingDate" : "2021-01-20",
+    "WarehouseCode": "1-0-1",
+    "Lines": [
+        {
+            "OrderAsnLineID": "24A0CDAC-12E6-45FD-9120-ACB600F5337F",
+            "OrderLineID": "9FE257BF-556A-41EA-AAF5-ACB600F50A1C",
+            "Qty1": 1
+        }
+    ]
+}

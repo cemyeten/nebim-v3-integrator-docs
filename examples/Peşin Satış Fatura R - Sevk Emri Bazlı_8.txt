@@ -1,0 +1,29 @@
+{
+  "ModelType": 8,
+  "CustomerCode": "PM1",
+  "Description": "Sinan",
+  "CompanyCode": "1",
+  "PosterminalID": 1,
+  "IsOrderBase": true,
+  "OfficeCode": "M01",
+  "StoreCode": "M01",
+  "WareHouseCode": "1-0-6",
+  "DefaultPreviousProcess": 5,
+  "Lines": [
+    {
+      "PickingLineID": "FAB708C2-0D71-4110-9A03-A8C000BD50B6",
+      "Qty1": 1
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": 2,
+      "Code": "",
+      "CreditCardTypeCode": "01",
+      "InstallmentCount": 1,
+      "CurrencyCode": "TRY",
+      "Amount": 120.00
+    }
+  ],
+  "IsCompleted": true
+}

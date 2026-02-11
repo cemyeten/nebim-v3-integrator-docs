@@ -1,0 +1,26 @@
+{
+  "ModelType": 13,
+  "CompanyCode": 1,
+  "VendorCode": "TF0004",
+  "Description": "",
+  "DocumentNumber": "",
+  "IsTaxIncluded": false,
+  "DocCurrencyCode": "TRY",
+  "LocalCurrencyCode": "TRY",
+  "Lines": [
+    {
+      "ItemCode": "F0001",
+      "ItemDim1Code": "",
+      "ItemDim2Code": "",
+      "ItemDim3Code": "",
+      "ItemTypeCode": 4,
+      "PriceVI": 11.8000,
+      "Qty1": 1
+    }
+  ],
+  "OfficeCode": "M",
+  "OrderDate": "2018-05-29",
+  "StoreCode": "",
+  "WarehouseCode": "1-0-1",
+  "IsCompleted": true
+}

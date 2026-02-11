@@ -1,0 +1,32 @@
+
+{
+  "ModelType": 91,
+  "CompanyCode": 1,
+  "CreditCardPaymentTypeCode": 3,
+  "CurrAccCode": "1-3-10",
+  "CurrAccTypeCode": 3,
+  "Description": "Entegratör",
+  "DocCurrencyCode": "TRY",
+  "DocumentNumber": "9999",
+  "ExchangeRate": 1,
+  "IsCompleted": true,
+  "IsLocked": false,
+  "Lines": [
+    {
+      "AcquirerBankCode": "TR0111",
+      "Amount": 100.00,
+      "CreditCardInstallmentCount": 0,
+      "CreditCardNum": "",
+      "CreditCardTypeCode": "TR0011",
+      "IssuerBankCode": "TR0111"
+    }
+  ],
+  "OfficeCode": "M",
+  "PaymentDate": "2018-03-02",
+  "ATAttributes": [
+    {
+      "AttributeCode": "P1",
+      "AttributeTypeCode": 1
+    }
+  ]
+}

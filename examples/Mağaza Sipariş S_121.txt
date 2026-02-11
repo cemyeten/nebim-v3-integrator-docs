@@ -1,0 +1,26 @@
+
+{
+  "ModelType": 121,
+"OrderDate": "20221230",
+  "CompanyCode": "1",
+  "IsCompleted": true,
+  "OfficeCode": "M",
+  "StoreCode": "",
+  "WarehouseCode": "",
+  "ToStoreCode": "M01",
+  "ToWarehouseCode": "M01",
+  "Description": "",
+  "ShippingPostalAddressID": "6ca47c27-720e-42d4-b5dc-14d349f941f8",
+
+  "Lines": [
+    {
+      "ColorCode": "001",
+      "ItemCode": "V000006",
+      "ItemDim1Code": "L",
+      "ItemDim2Code": "",
+      "ItemDim3Code": "",
+      "ItemTypeCode": 1,
+      "Qty1": 1
+    }
+  ]
+}

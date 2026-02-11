@@ -1,0 +1,33 @@
+{
+  "ModelType": 26,
+  "CompanyCode": 1,
+  "CustomerCode": "PM1",
+  "PaymentPlanCode": "6",
+  "OfficeCode": "M01",
+  "StoreCode": "M01",
+  "WarehouseCode": "1-0-7",
+  "PosTerminalID": 1,
+  "Series": "",
+  "SeriesNumber": 0,
+  "DocCurrencyCode": "TRY",
+  "DocumentTypeCode": 4,
+  "InvoiceDate": "20180709",
+  "IsCompleted": true,
+  "IsCreditSale": true,
+  "Lines": [
+    {
+      "UsedBarcode": "100",
+      "Qty1": 1,
+      "PriceVI": 1000.00
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": 2,
+      "CreditCardTypeCode": "01",
+      "InstallmentCount": 1,
+      "CurrencyCode": "TRY",
+      "Amount": 300.00
+    }
+  ]
+}

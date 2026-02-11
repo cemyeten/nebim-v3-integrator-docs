@@ -1,0 +1,16 @@
+{​​​​​​​​
+    "ModelType": 197,
+    "CustomerCode": "MF002",
+    "OfficeCode": "M",
+    "WarehouseCode": "1-0-1",
+    "Description": "From V3 Integrator",
+    "IsCompleted": true,
+    "Lines": [
+        {​​​​​​​​
+            "UsedBarcode": "100",
+            "Qty1": 1,
+            "Price": 120
+        }​​​​​​​​
+    ]
+}​​​​​​​​
+

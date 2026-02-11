@@ -1,0 +1,18 @@
+{
+  "ModelType": 3,
+  "CurraccCode": "1-4-11",
+  "CurrAccPersonalDataConfirmations": [
+    {
+      "ConfirmationDate": "2017-12-06",
+      "ConfirmationFormTypeCode": "Onay1",
+      "FormNumber": "1-2-3",
+      "ConfirmationFormStatusCode": "ONAYLI",
+      "CanShareWithThirdParty": true,
+      "CanShareWithForeignCountries": true,
+      "CallPermission": true,
+      "SmsPermission": true,
+      "EmailPermission": true,
+      "AddressPermission": true
+    }
+  ]
+}

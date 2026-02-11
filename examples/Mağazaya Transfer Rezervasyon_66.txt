@@ -1,0 +1,19 @@
+{
+  "ModelType": 66,
+  "IsCompleted": true,
+  "IsOrderBase": true,
+  "IsPrinted": false,
+  "IsReturn": false,
+  "Lines": [
+    {
+      
+      "OrderLineID": "5ED72452-FD0B-4EEB-8722-A8E300F87054",
+      "Qty1": 1
+    }
+  ],
+  "OfficeCode": "M01",
+  "ReserveDate": "2018-05-17",
+  "ToStoreCode": "M02",
+  "ToWarehouseCode": "M02",
+  "WarehouseCode": "1-0-6"
+}

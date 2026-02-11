@@ -1,0 +1,27 @@
+
+{
+  "ModelType": 58,
+  "CustomerCode": "1-4-1",
+  "IsCompleted": true,
+  "IsOrderBase": true,
+  "UseProcessFlow": true,
+  "ShippingPostalAddressID": "5032DD20-9079-4625-B1D3-A7FA0075AE6D",
+  "BillingPostalAddressID": "5032DD20-9079-4625-B1D3-A7FA0075AE6D",
+  "IsReturn": false,
+  "Lines": [
+    {
+      "DispOrderLineID": "8CAD3062-7069-4A8C-9C40-A81900B80F38",
+       "UsedBarcode":"8691845000083",
+      "Price": 100,
+      "PriceCurrencyCode": "TRY",
+      "Qty1": 1
+    }
+  ],
+  "OfficeCode": "S002",
+  "OperationDate": "20171027",
+  "Series": "",
+  "SeriesNumber": 0,
+  "ShippingDate": "20171027",
+  "StoreCode": "S002",
+  "WarehouseCode": "1-2-2"
+}

@@ -1,0 +1,16 @@
+/InvoiceService/SendEInvoice
+
+{
+
+    "ModelType": 7,
+
+    "InvoiceNumber": "1-WS-7-71", //FAtura Numarası
+
+    "QueryName": "V3Query", //Sorgu Adı
+
+    "EInvoicePrefixCode": "ABC", //E-FAtura Başlangıç Karakterleri
+
+    "RepostEInvoices": false //Gönderilmiş E-Faturayı Tekrar Gönder parametresi
+
+}
+ 

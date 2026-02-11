@@ -1,0 +1,22 @@
+{
+  "ModelType": 133,
+  "CompanyCode": 1,
+  "OfficeCode": "M",
+  "CustomerCode": "120.01",
+  "SubCurrAccID": "00000000-0000-0000-0000-000000000000",
+  "BillingPostalAddressID": "0111fd87-9b9a-41b5-b2da-a5fb006dc96d",
+  "ShippingPostalAddressID": "0111fd87-9b9a-41b5-b2da-a5fb006dc96d",
+  "IsCompleted": true,
+  "IsOrderBase": true,
+  "Lines": [
+    {
+      "UsedBarcode": "1234000000022",
+      "Qty1": 1
+    }
+  ],
+  "Series": "",
+  "SeriesNumber": 0,
+  "ShippingDate": "25-10-2016",
+  "StoreCode": "",
+  "WarehouseCode": "M"
+}	

@@ -1,0 +1,38 @@
+	RequestType 	: GET/POST
+	NameSpace 		: IntegratorService
+	Command   		: POST
+	Sample URL		: http://90.158.29.227:1515/(S(yzph5y4kmvjdmjrprlk15diu))/IntegratorService/POST?
+	Sample Model 	:
+
+
+DefaultPreviousProcess  alanýna hangi süreç faturalanacaksa o yazýlmalý.
+
+{
+  "ModelType": 8,
+  "CustomerCode": "1-4-4",
+  "Description": "Sinan",
+  "CompanyCode": "1",
+  "IsOrderBase": true,
+  "OfficeCode": "M01",
+  "StoreCode": "M01",
+  "WareHouseCode": "1-0-7",
+  "DefaultPreviousProcess": 3,
+  "StoreCode": "",
+  "Lines": [
+    {
+      "ReserveLineID": "81861B3C-B49F-4970-9117-A87800C5193D",
+      "Qty1": 1
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": 1,
+      "Code": "1-7-1",
+      "CreditCardTypeCode": "",
+      "InstallmentCount": 1,
+      "CurrencyCode": "TRY",
+      "Amount": 120.00
+    }
+  ],
+  "IsCompleted": true
+}

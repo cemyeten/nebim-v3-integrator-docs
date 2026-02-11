@@ -1,0 +1,27 @@
+{
+    "ModelType": "5",
+    "CustomerCode": "1-3-3",
+    //"OrderDate": "20241031",
+    "OfficeCode": "M",
+    "WarehouseCode": "",
+    "DeliveryCompanyCode": "",
+    "PosTerminalId": 0,
+    "ShipmentMethodCode": 2,
+    "IsLocked": false,
+    "IsCreditSale": true,
+    "IsCompleted": true,
+    "DocumentNumber": "ESP0011728",
+    "Description": "deneme sipariş",
+    "InternalDescription": "",
+    "SuppressItemDiscount": true,
+    "ApplyCampaign": false,
+    "SubCurrAccID": "",
+    "SumLines": [
+        {
+            "LotBarcode": "L0000000000316",
+            "LotCode": "L001",
+            "Qty1": 1,
+            "Price": 25.00
+        }
+    ]
+}

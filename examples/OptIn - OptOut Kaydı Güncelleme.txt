@@ -1,0 +1,25 @@
+{
+  "ModelType": 3,
+  "CurrAccCode": "1-4-19",
+  "Communications": [
+    {
+      "CanSendAdvert": true,
+      "CommunicationID": "CD68CBC5-5E32-4D3E-84A9-AB2A0139677D",
+      "OptInOptOutStatusList": [
+        {
+          "Call": true,
+          "CanSendAdvert": true,
+          "CompanyBrandCode": "01",
+          "ConfirmationFormStatusCode": "",
+          "ConfirmationFormTypeCode": "001",
+          "Email": true,
+          "FormNumber": "201912210002",
+          "MessageResponseID": "12333",
+          "PermissionMarketingServiceCode": "",
+          "PermissionMarketingServiceUID": "",
+          "SMS": true
+        }
+      ]
+    }
+  ]
+}

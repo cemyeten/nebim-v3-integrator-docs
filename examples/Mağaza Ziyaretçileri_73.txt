@@ -1,0 +1,9 @@
+{
+  "ModelType": 73,
+  "OfficeCode": "F01",
+  "StoreCode": "1-5-1",
+  "CurrentDate": "20170301",
+  "CurrentHour": "2",
+  "InVisitorCount": "22",
+  "OutVisitorCount": "20"
+}

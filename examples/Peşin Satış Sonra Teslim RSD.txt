@@ -1,0 +1,52 @@
+//önce InvoiceLineExtension bloğu ile sonra teslim olarak fatura oluşturulmalı, sonra alttaki diğer modelle RSD siparişe çevirilmeli.
+
+{
+  "ModelType": 8,
+  "CustomerCode": "1-4-13",
+  "PosTerminalID": 1,
+  "InvoiceDate": "20240724",
+  "OfficeCode": "M01",
+  "StoreCode": "M01",
+  "WareHouseCode": "M01",
+  "IsCompleted": true,
+  "ShipmentMethodCode": 2,
+  "DeliveryCompanyCode": "ARAS",
+  "SalesViaInternetInfo": {
+    "SalesURL": "www.demoteks.com",
+    "PaymentTypeCode": 1,
+    "PaymentTypeDescription": "KREDİ KARTI",
+    "PaymentAgent": "VERA",
+    "PaymentDate": "20190311",
+    "SendDate": "20190311"
+  },
+  "Lines": [
+    {
+      "UsedBarcode": "8695450000643",
+      "PriceVI": 30.00,
+      "Qty1": 1,
+      "LineDescription": "",
+      "InvoiceLineExtension": {
+        "ItemDeliveryStatus": 1
+      }
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": 2,
+      "CreditCardTypeCode": "AKB",
+      "InstallmentCount": 1,
+      "CurrencyCode": "TRY",
+      "Amount": 30.00
+    }
+  ]
+}
+
+
+2.Model
+
+/InvoiceService/RetailInvoiceToOrderRSD
+{
+"ModelType":8,
+"ProcessCode":"R",
+"InvoiceHeaderID":"DD82006F-5BE1-44BD-B515-B1B7007B2187"
+}

@@ -1,0 +1,9 @@
+.../ShipmentService/ApproveTransfer
+{
+  "ModelType": 0,
+  "Lines": [
+    {
+      "ShipmentHeaderID": "BDB79F0D-7E68-4A03-9139-AD48008970B6"
+    }
+  ]
+}

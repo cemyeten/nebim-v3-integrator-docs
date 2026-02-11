@@ -1,0 +1,22 @@
+InnerService/ApproveTransferByItem
+
+{
+  "ModelType": 0,
+  "ProcessCode": "WT",
+  "HeaderID": "521E589D-FE91-418B-8CFF-AD57008AD7A3",
+  "OperationDate": "2021-06-30",
+  "OperationTime": "14:15",
+  "ContinueSavedTransferApprove": true,
+  "Lines": [
+    {
+      "UsedBarcode": "8690000000036",
+      "IncomingQty": 1
+      
+    },
+    {
+      "UsedBarcode": "8690000000043",
+      "IncomingQty": 1
+      
+    }
+  ]
+}

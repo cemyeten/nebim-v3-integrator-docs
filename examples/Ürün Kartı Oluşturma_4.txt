@@ -1,0 +1,27 @@
+{
+  "ModelType": 4,
+  "ItemTypeCode": "1",
+  "ItemCode": "U0013",
+  "ItemDescription": "Erkek Kareli Gömlek",
+  "ItemDimTypeCode": 2,
+  "ItemTaxGrCode": "%8",
+  "ProductHierarchyID": 0,
+  "UsePOS": true,
+  "UseStore": true,
+  "UseInternet": true,
+  "UnitOfMeasureCode1": "AD",
+  "Variants": [
+    {
+      "ColorCode": "R002",
+      "ItemDim1Code": "M",
+      "ItemDim2Code": "",
+      "ItemDim3Code": ""
+    },
+    {
+      "ColorCode": "R002",
+      "ItemDim1Code": "L",
+      "ItemDim2Code": "",
+      "ItemDim3Code": ""
+    }
+  ]
+}

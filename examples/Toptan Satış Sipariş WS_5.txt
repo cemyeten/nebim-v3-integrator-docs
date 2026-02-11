@@ -1,0 +1,52 @@
+{
+"ModelType": 5,
+"CustomerCode": "120.01",
+"OrderDate": "2016-01-29T17:13:56.0604855Z",
+"OfficeCode": "M",
+"WarehouseCode": "M",
+"DeliveryCompanyCode": "ARAS",
+"ShipmentMethodCode": 2,
+"OrderDate": "20.09.2016",
+"IsCompleted": true,
+"IsSalesViaInternet": true,
+"DocumentNumber": "351684",
+"SubCurrAccID": "",
+"Description": "Toptan Satış Siparişi Deneme",
+"Lines": [
+{
+"ColorCode": "04",
+"ItemCode": "K001",
+"ItemDim1Code": "42",
+"Qty1": 1,
+"LDisRate1": 10,
+"PriceVI": 100.00,
+"LineDescription": "Toptan Satış Siparişi Deneme 2",
+}
+],
+"OrdersViaInternetInfo": {
+"SalesURL": "www.qweqwe.com.tr",
+"PaymentTypeCode": 1,
+"PaymentTypeDescription": "KREDIKARTI/BANKAKARTI",
+"PaymentAgent": "YAPIKREDİ",
+"PaymentDate": "2016-01-27T07:41:23.7094208Z",
+"SendDate": "0001-01-01T00:00:00Z"
+},
+"Discounts": [
+{
+"DiscountTypeCode": 5,
+"Value": 10,
+"DiscountReasonCode": "1",
+"IsPercentage": true
+}
+],
+"Payments": [
+{
+"PaymentType": "2",
+"Code": "",
+"CreditCardTypeCode": "01",
+"InstallmentCount": 1,
+"CurrencyCode": "TRY",
+"Amount": 100.00
+}
+]
+}

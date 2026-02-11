@@ -1,0 +1,21 @@
+{
+  "ModelType": 6,
+  "OrderNumber": "1-R-2-351",
+  "OfficeCode": "M001",
+  "StoreCode": "M001",
+  "StoreWarehouseCode": "M001",
+  "Lines": [
+    {
+      "LineID": "B879D462-25F3-4DCD-80CC-A90500BFC1C9",
+      "OrderDeliveryDetails": [
+        {
+          "OrderDeliveryRecordTypeCode": 1,
+          "OfficeCode": "M002",
+          "StoreCode": "M002",
+          "WarehouseCode": "M002",
+          "Qty1": 1
+        }
+      ]
+    }
+  ]
+}

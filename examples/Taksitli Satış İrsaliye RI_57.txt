@@ -1,0 +1,34 @@
+{
+  "ModelType": 57,
+  "AddRemainingOrdersOnInventory": false,
+  "ApplicationCode": "Shipm",
+  "BillingPostalAddressID": "4f98479c-8345-4cae-9bfc-a81700b41b2c",
+  "CompanyCode": 1,
+  "CreateStockRecord": true,
+  "CustomerCode": "1-AH-4-116",
+  "IsCompleted": true,
+  "IsLocked": false,
+  "IsOrderBase": true,
+  "IsPickingBase": false,
+  "IsPrinted": false,
+  "LogisticsCompanyBOL": "",
+  "OfficeCode": "S002",
+  "OperationDate": "\/Date(1508878800000)\/",
+  "PaymentPlanCode": "TEST",
+  "ShippingDate": "\/Date(1508878800000)\/",
+  "ShippingPostalAddressID": "4f98479c-8345-4cae-9bfc-a81700b41b2c",
+  "StoreCode": "S002",
+  "UseOrderPrice": false,
+  "UseProcessFlow": false,
+  "WarehouseCode": "1-2-2",
+  "IsReturn": false,
+  "Lines": [
+    {
+      
+      "OrderLineID": "F2B5E780-E2BD-49EE-982C-A81700CBDF2F",
+      "Qty1": 1
+     
+    }
+  ]
+
+}

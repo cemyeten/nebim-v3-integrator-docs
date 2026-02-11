@@ -1,0 +1,18 @@
+{
+  "ModelType": 162,
+  "AdjustCostMethodCode": 4,
+  "InnerProcessCode": "OP",
+  "Amount": 100,
+  "AdjustCostInners": [
+    {
+      "InnerNumber": "1-OP-140",
+      "CostLines": [
+        {
+          "LineID": "FB84CF4D-DBA9-4053-96DD-A70B00E43A7B",
+          "IncreaseAmount": 100
+        }
+      ]
+    }
+  ],
+  "IsCompleted": true
+}

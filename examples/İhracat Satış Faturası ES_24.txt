@@ -1,0 +1,42 @@
+{
+  "ModelType": 24,
+  "CompanyCode": 1,
+  "CustomerCode": "yd",
+  "InvoiceDate": "2018-03-26",
+  "DeliveryCompanyCode": "",
+  "Description": "",
+  "OfficeCode": "M",
+  "WarehouseCode": "1-0-1",
+  "DocCurrencyCode": "TRY",
+  "DocumentTypeCode": 4,
+  "Series": "",
+  "SeriesNumber": 0,
+  "ShipmentMethodCode": "",
+  "ExportFileNumber": "23",
+  "IsCompleted": true,
+  "BillingPostalAddressID": "90ac3c06-7eba-4035-a8a5-a69c0088164b",
+  "ShippingPostalAddressID": "90ac3c06-7eba-4035-a8a5-a69c0088164b",
+  "Lines": [
+    {
+      "ItemCode": "U0001",
+      "ItemDim1Code": "L",
+      "ItemDim2Code": "",
+      "ItemDim3Code": "",
+      "ItemTypeCode": 1,
+      "Qty1": 1,
+      
+    }
+  ],
+  "LocalCurrencyCode": "TRY",
+  "PosTerminalID": 0,
+  "SalesViaInternetInfo": {
+    "PaymentAgent": "",
+    "PaymentDate": "\/Date(-2208996000000)\/",
+    "PaymentTypeCode": 0,
+    "PaymentTypeDescription": "",
+    "SalesURL": "",
+    "SendDate": "\/Date(-2208996000000)\/",
+    
+  }
+  
+}

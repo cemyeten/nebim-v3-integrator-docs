@@ -1,0 +1,19 @@
+{
+  "ModelType": 3,
+  "CurrAccCode": "",
+  "FirstName": "Sinan",
+  "LastName": "ÇAKIR",
+  "IdentityNum": "11111111111",
+  "OfficeCode": "M",
+  "PostalAddresses": [
+    {
+      "AddressTypeCode": "1",
+      "CountryCode": "TR",
+      "StateCode": "TR.KR",
+      "CityCode": "TR.69",
+      "DistrictCode": "TR.06900",
+      "Address": "gencosman mah. orhun sok 33 numara kat4 Merkez Bayburt"
+    }
+  ]
+ 
+}

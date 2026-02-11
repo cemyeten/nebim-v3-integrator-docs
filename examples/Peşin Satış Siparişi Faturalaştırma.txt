@@ -1,0 +1,25 @@
+{
+  {
+    "ModelType": 0,
+    "OrderHeaderID": "BF1D05E5-EA49-4F6D-98F6-A56A00D5203A",
+    "InvoiceDate": "\/Date(1449752805024)\/",
+    "IsCompleted": true,
+    "OrderLineIDs": [
+      {
+        "LineID": "C661BE75-EAB4-43C4-9E99-A56A00D52044"
+      },
+      {
+        "LineID": "CE0BBF89-8493-4154-A972-A56A00D5208D"
+      }
+    ],
+    "Payments": [
+      {
+        "PaymentType": 2,
+        "Code": "",
+        "CreditCardTypeCode": "GB",
+        "InstallmentCount": 1,
+        "CurrencyCode": "TRY",
+        "Amount": 90.00
+      }
+    ]
+  }

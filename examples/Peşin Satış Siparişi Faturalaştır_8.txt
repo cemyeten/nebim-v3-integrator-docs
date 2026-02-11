@@ -1,0 +1,27 @@
+{
+  "ModelType": "8",
+  "ProcessCode": "R",
+  "InvoiceDate": "01.02.2022",
+  "CustomerCode": "1-4-45646",
+  "PosTerminalID": 1,
+  "Description": "",
+  "IsCompleted": true,
+  "IsLocked": false,
+  "IsOrderBase": true,
+  "IsPickingBase": false,
+  "IsReturn": false,
+  "OfficeCode": "300",
+  "StoreCode": "300",
+  "WarehouseCode": "300",
+  "ShipmentMethodCode": "2",
+  "DeliveryCompanyCode": "01",
+  "BillingPostalAddressID": "92F41F65-7FE9-4AE1-A73E-AE2F000A1A4A",
+  "ShippingPostalAddressID": "620C4277-D7A4-44C0-8E65-AE2F000A1A4A",
+  "Lines": [
+
+    {
+      "OrderLineID": "50ACE0EE-BDEA-43DB-8718-AE2F000A1CCF",
+      "Qty1": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ModelType": 16,
+  "OrderNumber": "",
+  "CustomerCode": "1-4-41",
+  "DeliveryCompanyCode": "02",
+  "Description": "Entegrator",
+  "IsCompleted": true,
+  "IsSalesViaInternet": true,
+  "OfficeCode": "M01",
+  "OrderDate": "20180713",
+  "POSTerminalID": 1,
+  "StoreCode": "M01",
+  "StoreWarehouseCode": "1-0-7",
+  "PaymentPlanCode": "6",
+  "IsCreditableConfirmed": true,
+  "IsCreditSale": true,
+  "Lines": [
+    {
+      "UsedBarcode": "15",
+      "ITAtt01": "",
+      "LDisRate1": 0,
+      "PriceVI": 68.00,
+      "Qty1": 1
+    }
+  ],
+  "OrdersViaInternetInfo": {
+    "PaymentAgent": "",
+    "PaymentDate": "2017-03-30T22:00:00Z",
+    "PaymentTypeCode": 5,
+    "PaymentTypeDescription": "DIGER",
+    "SalesURL": "www.yigitalisveris.com.tr",
+    "SendDate": "2017-03-30T22:00:00Z"
+  },
+  "Payments": [
+    {
+      "PaymentType": 2,
+      "CreditCardTypeCode": "01",
+      "CurrencyCode": "TRY",
+      "ExchangeRate": 1,
+      "Amount": 8.00
+    }
+  ]
+}

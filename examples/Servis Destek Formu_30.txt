@@ -1,0 +1,28 @@
+{
+  "ModelType": 30,
+  "BillingPostalAddressID": "CD5920B8-F309-4398-95DC-B04761FD6B0C",
+  "CompanyCode": 1,
+  "CurrAccCode": "10BRD1000318",
+  "CurrAccTypeCode": 4,
+  "Date": "20211223",
+  "DeliveryDate": "20211223",
+  "Description": "",
+  "IsCompleted": true,
+  "Lines": [
+    {
+      "ItemTypeCode": 5,
+      "LineDescription": "Şikayet Açıklaması",
+      "Qty": 1,
+      "ServiceCode": "S0076"
+    }
+  ],
+  "OfficeCode": "M",
+  "ProductCode": "106204015700",
+  "ProductTypeCode": 1,
+  "RequestDate": "20211223",
+  "SalespersonCode": "1220",
+  "ShippingPostalAddressID": "CD5920B8-F309-4398-95DC-B04761FD6B0C",
+  "StoreCode": "",
+  "SupportTypeCode": 1,
+  "WarehouseCode": "M02"
+}

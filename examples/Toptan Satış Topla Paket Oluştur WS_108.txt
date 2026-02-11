@@ -1,0 +1,44 @@
+{
+  "ModelType": 108,
+  "CompanyCode": 1,
+  "CustomerCode": "120 01 006",
+  "Description": "",
+  "Lines": [
+    {
+      "OrderLineID": "6fa71599-38a2-41a1-aa8a-adeb007f9d63",
+      "ColorCode": "001",
+      "ItemCode": "V000001",
+      "ItemDim1Code": "S",
+      "ItemDim2Code": "",
+      "ItemDim3Code": "",
+      "ItemTypeCode": 1,
+      "Qty1": 1,
+      "UsedBarcode": ""
+    }
+  ],
+  "LogisticsCompanyBOL": "",
+  "LogisticsPackageNumber": "",
+  "OfficeCode": "M",
+  "PackageBrandCode": "",
+  "PackageNumber": "",
+  "PackageVolumeCode": "",
+  "PackagingTypeCode": "",
+  "PackedWeight": 0,
+  "PickingDate": "2021-11-25T16:12:00:0000000Z",
+  "PickingTime": {
+    "Ticks": 0,
+    "Days": 0,
+    "Hours": 0,
+    "Milliseconds": 0,
+    "Minutes": 0,
+    "Seconds": 0,
+    "TotalDays": 0,
+    "TotalHours": 0,
+    "TotalMilliseconds": 0,
+    "TotalMinutes": 0,
+    "TotalSeconds": 0
+  },
+  "StoreCode": "",
+  "WarehouseCode": "M001",
+  "WeightUnitOfMeasureCode": ""
+}
