@@ -1,0 +1,19 @@
+{
+  "ModelType": 142,
+  "CompanyCode": 1,
+  "InnerProcessType": 2, // 2 ise CI 1 ise CO
+  "IsCompleted": true,
+  "IsLocked": true,
+  "IsTransferApproved": true,
+  "OfficeCode": "M",
+  "OperationDate": "2020-04-13",
+  "WarehouseCode": "M01",
+  "Lines": [
+    {
+      "ItemTypeCode": 1,
+      "ItemCode": "K001",
+      "LineDescription": "TEST",
+      "Qty1": 2,
+    }
+  ]
+}

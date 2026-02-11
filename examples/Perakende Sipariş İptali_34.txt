@@ -1,0 +1,20 @@
+{
+  "ModelType": 34,
+  "OrderNumber": "1-R-2-3008",
+  "Lines": [
+    {
+      "LineID": "d422a713-f026-45a6-b3d0-913951e9811f",
+      "Qty1": 1,
+      "OrderCancelReasonCode": "01"
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": 2,
+      "Code": "",
+      "CreditCardTypeCode": "AKB",
+      "CurrencyCode": "TRY",
+      "Amount": 118.00
+    }
+  ]
+}

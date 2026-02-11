@@ -1,0 +1,36 @@
+{
+  "ModelType": 2,
+  "CurrAccCode": "101.101.101",
+  "CurrAccDescription": "Musteri",
+  "IdentityNum": "11111111111",
+  "OfficeCode": "M",
+  "WholeSalePriceGroupCode": "PSF",
+  "CreditLimit": 0,
+  "CurrencyCode": "TRY",
+  "CustomerTypeCode": 0,
+  "TaxNumber": "111111111111",
+  "TaxOfficeCode": "001105",
+  "MersisNum": "111111111111",
+  "PostalAddresses": [
+    {
+      "AddressTypeCode": "1",
+      "CountryCode": "TR",
+      "StateCode": "TR.EG",
+      "CityCode": "TR.35",
+      "DistrictCode": "TR.03501",
+      "Address": "Merkez mah. Demir sokak No:36"
+    }
+  ],
+  "Attributes": [
+    {
+      "AttributeTypeCode": "1",
+      "AttributeCode": "01"
+    }
+  ],
+  "Communications": [
+    {
+      "CommunicationTypeCode": 7,
+      "CommAddress": "05555555555"
+    }
+  ]
+}

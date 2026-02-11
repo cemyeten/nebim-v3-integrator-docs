@@ -1,0 +1,18 @@
+{
+    "ModelType": 98,
+    "BankTransTypeCode": 4,
+    "CompanyCode": 1,
+    "OfficeCode": "M",
+    "Description": "",
+    "DocumentNumber": "",
+    "DocumentDate": "20260211",
+    "IsCompleted": true,
+    "Lines": [
+        {
+            "CurrAccTypeCode": 3,
+            "CurrAccCode": "1-3-4",
+            "Amount": 200.00,
+            "BankAccountCode": "1-6-1"
+        }
+    ]
+}
