@@ -16,7 +16,7 @@ Web.config dosyasında <appSettings> </appSettings> etiketleri arasında aşağ�
     <add key="ExceptionPath" value="" />
     <add key="UseAutoLogin" value="false" />
 	
-    <add key="aspnet:MaxJsonDeserializerMembers" value="150000" />
+    <add key="aspnet:MaxJsonDeserializerMembers" value="150000" /> // bu satır eklenecek
   </appSettings>
 ```
 Kod blogundaki value değeri json modelinizdeki karakter sayısını karşılayacak şekilde düzenlenirse hata çözümlenecektir.
