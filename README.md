@@ -1,6 +1,6 @@
 # Nebim V3 Integrator Dokümantasyonu
 
-Bu repo, Nebim V3 Integrator Web Servisi için hazırlanmış Türkçe teknik dokümantasyonu içermektedir.
+Bu repo, Nebim V3 Integrator Web Servisi için hazırlanmış teknik dokümantasyonu içermektedir.
 
 Dokümantasyon kapsamında aşağıdaki modeller detaylı olarak açıklanmıştır:
 
