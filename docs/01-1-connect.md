@@ -31,5 +31,5 @@ Login olunan kullanıcının tipi önemlidir:
 
 ## Detaylı Anlatım
 
-- 👉 [Session ile Login ve Doğrulama](./01-1-session-login.md)
-- 👉 [Token ile Login ve Doğrulama](./01-2-token-login.md)
+- 👉 [Session ile Login ve Doğrulama](./01-2-connect-session.md)
+- 👉 [Token ile Login ve Doğrulama](./01-3-connect-token.md)
