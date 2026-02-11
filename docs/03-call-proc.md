@@ -44,7 +44,6 @@ http://localhost:801/(S(uzr4v2hsttmweooenvsqq5je))/IntegratorService/RunProc
 
 ```json
 {
-  "ModelType": 33,
   "ProcName": "sp_GetRetailCustomer",
   "Parameters": [
     {
