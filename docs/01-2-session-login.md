@@ -20,7 +20,7 @@ http://localhost:801/(S(uzr4v2hsttmweooenvsqq5je))/IntegratorService/Connect
 
 ```json
 {
-  "DatabaseName": "DEMOTEKS",
+  "DatabaseName": "TESTV3",
   "UserGroupCode": "V3",
   "UserName": "INT",
   "Password": "1"
@@ -66,7 +66,7 @@ http://localhost:801/(S(uzr4v2hsttmweooenvsqq5je))/IntegratorService/GetUserInfo
 {
   "UserGroupCode": "V3",
   "UserName": "INT",
-  "DatabaseName": "DEMOTEKS",
+  "DatabaseName": "TESTV3",
   "LangCode": "TR",
   "DataLangCode": "TR",
   "RecordInfo": "V3   INT",
