@@ -9,7 +9,6 @@ Nebim V3 datası üzerinde özel yazılmış SQL Stored Procedure’leri çalı�
 - **Namespace:** `IntegratorService`
 - **Command:** `RunProc`
 - **HTTP Method:** `POST`
-- **ModelType:** `33`
 
 ---
 
