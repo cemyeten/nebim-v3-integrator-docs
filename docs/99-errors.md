@@ -23,3 +23,18 @@ Kod blogundaki value değeri json modelinizdeki karakter sayısını karşılaya
 
 
 ---
+## 📌 Hata : "Attempting to deserialize an empty stream.", "Boş akışın serisini kaldırma girişimi."
+
+### Çözüm
+
+Bu hata bağlantının kopmasından dolayı alınan bir hata, tekrar connect yapılırsa bu hata alınmayacakır.
+Entegratöre SessionID ile bağlanıldığında uzun süre işlem yapılmazsa bağlantı kopar, tekrar bağlanılmak gerekir.
+
+```json
+{
+    "ModelType": 0,
+    "ExceptionMessage": "Boş akışın serisini kaldırma girişimi.",
+    "StackTrace": "ICAga29udW06IE1pY3Jv...
+}
+```
+---
