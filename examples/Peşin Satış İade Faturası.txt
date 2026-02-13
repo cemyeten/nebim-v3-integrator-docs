@@ -1,0 +1,35 @@
+InvoiceService/ReturnInvoiceR?
+{
+  "ModelType": 0,
+  "InvoiceNumber": "1-R-7-558",
+  "InvoiceDate": "2025-09-10",
+  "InvoiceTime": "10:20:00",
+  "PosTerminalID": 1,
+  "Series": "A",
+  "SeriesNumber": "123123",
+  "WarehouseCode": "01",
+  "Description": "",
+  "ExchangeRate": 1,
+  "IsCompleted": true,
+  "StoreCode": "01",
+  "OfficeCode": "01",
+  "CompanyCode": "1",
+  "IsReturn": true,
+  "ReturnLineInfos": [
+    {
+      "LineID": "C96084BB-938E-4A69-A961-B35400773EF3",
+      "ReturnQty": 1,
+      "ReturnReasonCode": "01"
+    }
+  ],
+  "Payments": [
+    {
+      "PaymentType": "7",
+      "Code": "",
+      "CreditCardTypeCode": "",
+      "InstallmentCount": 0,
+      "CurrencyCode": "TRY",
+      "Amount": 2799.00
+    }
+  ]
+}
