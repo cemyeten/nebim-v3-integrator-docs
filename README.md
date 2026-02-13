@@ -56,6 +56,11 @@ bir Web API uygulamasıdır.
 
 ---
 
+### 💡 Önemli Bilgiler
+
+- [50 - Önemli Bilgiler](docs/50-other-info.md)
+
+---
 ## 📎 Ek Kaynaklar
 
 - `examples/` → Örnek JSON dosyaları  
