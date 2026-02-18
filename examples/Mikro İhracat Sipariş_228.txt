@@ -1,0 +1,50 @@
+{
+  "ModelType": 228,
+  "IncotermCode1": "CFR",
+  "IncotermCode2": "CFR",
+  "CustomerCode": "1-4-50",
+  "DocumentNumber": "",
+  "OrderDate": "2026-01-27 12:00:00",
+  "PosTerminalID": "1",
+  "StoreWareHouseCode": "01",
+  "WarehouseCode": "01",
+  "OfficeCode": "01",
+  "OrdererOfficeCode": "01",
+  "OrdererStoreCode": "01",
+  "StoreCode": "01",
+  "DeliveryCompanyCode": "01",
+  "SuppressItemDiscount": true,
+  "Description": "G5NMY795",
+  "PaymentMethodCode": "AGREE",
+  "IsCompleted": true,
+  "InternalDescription": "",
+  "PostalAddress": {
+    "Address": "Test Address",
+    "CountryCode": "CN",
+    "CityCode": "",
+    "StateCode": "",
+    "DistrictCode": "",
+    "CompanyName": "",
+    "TaxOfficeCode": ""
+  },
+  "Lines": [
+    {
+      "UsedBarcode": "8694120000457",
+      "PriceVI": 100,
+      "Qty1": 1.0,
+      "ActualPriceCurrencyCode": "EUR",
+      "ActualPriceExchangeRate": 100
+    }
+  ],
+
+  "Payments": [
+    {
+      "PaymentType": "2",
+      "Code": "",
+      "CreditCardTypeCode": "GRN",
+      "InstallmentCount": "1",
+      "CurrencyCode": "EUR",
+      "Amount": 100
+    }
+  ]
+}
