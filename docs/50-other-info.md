@@ -21,11 +21,11 @@ olarak gönderilmelidir. Bu şekilde tpInvoiceDiscountOffer, tpOrderDiscountOffe
 
 ---
 
-## 📌 Sipariş/Fatura aktarımında 3. Şahıs Firma, EFatura bilgisi
+## 📌 Sipariş/Fatura aktarımında 3. Şahıs Firma, E-Fatura bilgisi
 
 ### Açıklama
 
-Integrator üzerinden modelle sipariş ya da fatura oluştururken, 3. Şahıs firma bilgileri **"PostalAddress"** bloğunda ayrıca aşağıdaki gibi gönderilmelidir. Aynı zamanda E-Fatura olarak oluşması da bu şekilde sağlanmaktadır. Burada gönderilen Vergi No E-Faturaya tabi ise fatura e-Fatura olarak oluşur
+Integrator üzerinden modelle sipariş ya da fatura oluştururken, 3. Şahıs firma bilgileri **"PostalAddress"** bloğunda ayrıca aşağıdaki gibi gönderilmelidir. Aynı zamanda E-Fatura olarak oluşması da bu şekilde sağlanmaktadır. Burada gönderilen Vergi No E-Faturaya tabi ise fatura E-Fatura olarak oluşur
 
 ```json
 ...
