@@ -1,0 +1,28 @@
+{
+  "ModelType": 94,
+  "CompanyCode": 1,
+  "OfficeCode": "M",
+  "CurrAccCode": "1-1-1",
+  "CurrAccTypeCode": 1,
+  "DebitTypeCode": 1,
+  "Description": "",
+  "DocCurrencyCode": "USD",
+  "DocumentDate": "20260218",
+  "DocumentNumber": "",
+  "IsCompleted": true,
+  "Lines": [
+    {
+      "CreditAmount": 0,
+      "DebitAmount": 200.00,
+      "DebitReasonCode": "",
+      "DueDate": "2019-02-19",
+      "LineDescription": ""
+    }
+  ],
+  "ATAttributes": [
+    {
+      "AttributeCode": "969",
+"AttributeTypeCode": 1
+    }
+  ]
+}
