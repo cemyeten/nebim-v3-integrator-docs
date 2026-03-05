@@ -1,0 +1,45 @@
+{
+    "ModelType": "2",
+    "CurrAccCode": "",
+    "IsSubjectToEInvoice": "false",
+    "CurrAccDescription": "GÜRHAN YILMAZ",
+    "FirstName": "GÜRHAN",
+    "LastName": "YILMAZ",
+    "IsIndividualAcc": true,
+    "IdentityNum": "11111111111",
+    "OfficeCode": "M",
+    "CurrencyCode": "TRY",
+    "TaxNumber": "",
+    "TaxOfficeCode": "",
+    "CurrAccUTSInformations": [
+        {
+            "IsCompanySubjectToUTS": true,
+            "MeslekKodu": 0,
+            "OdaKodu": 0,
+            "SubCurrAccID": "",
+            "UTSKurumKodu": 2667269157644
+        }
+    ],
+    "PostalAddresses": [
+        {
+            "AddressTypeCode": "1",
+            "Address": "saray mah.mehmet Akif Ersoy caddesi semiha tokuş apartmanı 5/D",
+            "CountryCode": "TR",
+            "StateCode": "TR.AK",
+            "CityCode": "TR.07",
+            "DistrictCode": "TR.100421"
+        }
+    ],
+    "Communications": [
+        {
+            "CommunicationTypeCode": "3",
+            "CommAddress": "test@gmail.com",
+            "CanSendAdvert": true
+        },
+        {
+            "CommunicationTypeCode": "7",
+            "CommAddress": "+90(534)5555555",
+            "CanSendAdvert": true
+        }
+    ]
+}
