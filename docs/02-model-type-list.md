@@ -206,7 +206,7 @@ Diğer modeller zamanla güncellenecektir.
 | 192 | Street |  |
 | 193 | DepartmentReceipt |  |
 | 194 | ExportFile |  |
-| 195 | InvoiceEXS |  |
+| 195 | InvoiceEXS | Masraf Satış Faturası |
 | 196 | InnerIT |  |
 | 197 | InstantReserveWS |  |
 | 198 | ConvertProposalBPOrder |  |
